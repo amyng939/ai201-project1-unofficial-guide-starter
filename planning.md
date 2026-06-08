@@ -10,7 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-Student reviews of colleges. It is valuable because there are so many different colleges to choose from and so much information out there to compare and it can be overwhelming.
+Student reviews of colleges. It is valuable because there are so many different colleges to choose from and so much information out there to compare along with biased information from official channels and it can be overwhelming.
 
 ---
 
@@ -41,12 +41,11 @@ Student reviews of colleges. It is valuable because there are so many different 
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size:** 256–512 tokens
 
-**Overlap:**
+**Overlap:** 50–100 tokens
 
-**Reasoning:**
-
+**Reasoning:** Using student reviews from my sources, the chunks should be smaller than would a long FAQ and would be effective to get the sentiment of the reviews.
 ---
 
 ## Retrieval Approach
@@ -57,11 +56,11 @@ Student reviews of colleges. It is valuable because there are so many different 
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model:** all-MiniLM-L6-v2 via sentence-transformers
 
-**Top-k:**
+**Top-k:** 5
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection:** Cost not being a constraint means I can use a more powerful embedding model for better accuracy and larger context lengths. Multilingual support isn't as important because these sources are typically in English. Latency is definitely a larger importance as well for better user experience.
 
 ---
 
@@ -74,11 +73,11 @@ Student reviews of colleges. It is valuable because there are so many different 
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 |What do students say about Hunter College's computer science program? |Sucks, bad professors, etc |
+| 2 |What do students say about the crowdiness of the colleges? |Things about elevators not working, lots of students, etc |
+| 3 |What feature do students rate the best from each college? |Location and safety are consistently the some of the highest ones throughout all |
+| 4 |What feature do students rate the worst from each college? |Social and food are consistently the worst throughout all |
+| 5 |What is the overall ranking of the colleges from best to worst? |4.4 cornell to 2.9 CCNY |
 
 ---
 
@@ -88,9 +87,9 @@ Student reviews of colleges. It is valuable because there are so many different 
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Missing retrieval of the ratings in the reviews and the overall rating because it's in a different format than the review text.
 
-2.
+2. Chunks that split reviews up creating weird inconsistent summaries
 
 ---
 
@@ -101,6 +100,18 @@ Student reviews of colleges. It is valuable because there are so many different 
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+
+[Document Ingestion: Rate my professor]
+   ↓
+[Chunking: 256–512 tokens size, 50–100 tokens overlap]
+   ↓
+[Embeddings: all-MiniLM-L6-v2 via sentence-transformers]
+   ↓
+[Vector Store: ChromaDB]
+   ↓
+[Retrieval: top-k = 5]
+   ↓
+[Generation: Groq (llama-3.3-70b-versatile)]
 
 ---
 
@@ -116,8 +127,8 @@ Student reviews of colleges. It is valuable because there are so many different 
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
 
-**Milestone 3 — Ingestion and chunking:**
+**Milestone 3 — Ingestion and chunking:** Claude/ChatGPT - implement chunk_text() with 256–512 tokens size, 50–100 tokens overlap from chunking strategy section
 
-**Milestone 4 — Embedding and retrieval:**
+**Milestone 4 — Embedding and retrieval:** Claude/ChatGPT - input retrieval section to implement a retrieval function with top 5 most similar chunks
 
-**Milestone 5 — Generation and interface:**
+**Milestone 5 — Generation and interface:** Claude/ChatGPT - input the retrieved chunks and questions with the LLM used to implement a response

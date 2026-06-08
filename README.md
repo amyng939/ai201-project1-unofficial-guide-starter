@@ -14,7 +14,7 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
-
+Student reviews of colleges. It is valuable because there are so many different colleges to choose from and so much information out there to compare along with biased information from official channels and it can be overwhelming.
 
 ---
 
@@ -26,16 +26,16 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 |RMP|Overall Hunter College Student review page |https://www.ratemyprofessors.com/school/226 |
+| 2 |RMP |Overall Queens College Student review page |https://www.ratemyprofessors.com/school/231 |
+| 3 |RMP |Overall Baruch College Student review page |https://www.ratemyprofessors.com/school/222 |
+| 4 |RMP |Overall Columbia University Student review page |https://www.ratemyprofessors.com/school/278 |
+| 5 |RMP |Overall Binghamton Student review page |https://www.ratemyprofessors.com/school/958 |
+| 6 |RMP |Overall Stony Brook Student review page |https://www.ratemyprofessors.com/school/971 |
+| 7 |RMP |Overall Brooklyn College Student review page |https://www.ratemyprofessors.com/school/223 |
+| 8 |RMP |Overall NYU Student review page |https://www.ratemyprofessors.com/school/675 |
+| 9 |RMP |Overall Cornell Student review page |https://www.ratemyprofessors.com/school/298 |
+| 10 |RMP |Overall CCNY Student review page |https://www.ratemyprofessors.com/school/224 |
 
 ---
 
