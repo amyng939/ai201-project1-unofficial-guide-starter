@@ -126,7 +126,7 @@ if __name__ == "__main__":
     # Grounded-generation smoke test: 2 in-domain queries + 1 out-of-domain.
     tests = [
         "What opinions do students have about food and dining options?",
-        "What do students review the most postive from the colleges?",
+        "What do students review the most positive from the colleges?",
         "What is the football team's win-loss record this season?",  # not in corpus
     ]
     for q in tests:

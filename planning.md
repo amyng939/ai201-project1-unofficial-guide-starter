@@ -74,8 +74,8 @@ Student reviews of colleges. It is valuable because there are so many different 
 | # | Question | Expected answer |
 |---|----------|-----------------|
 | 1 |What opinions do students have about food and dining options? |pricy, limited food options, etc |
-| 2 |What do students say about the crowdiness of the colleges? |Things about elevators not working, lots of students, etc |
-| 3 |What do students review the most postive from the colleges? |Location and safety are consistently the some of the highest rated features throughout all but from reviews |
+| 2 |What do students say about the crowdedness of the colleges? |Things about elevators not working, lots of students, etc |
+| 3 |What do students review the most positive from the colleges? |Location and safety are consistently the some of the highest rated features throughout all but from reviews |
 | 4 |What do students review the most negative from the colleges? |Social and food are consistently the worst rated features throughout all but from reviews |
 | 5 |What do students say about the professors of the colleges? |absent, passionate, etc |
 

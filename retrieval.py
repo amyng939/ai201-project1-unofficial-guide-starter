@@ -136,9 +136,9 @@ def retrieve(query, k=TOP_K):
 # 3 of the 5 evaluation-plan queries from planning.md.
 TEST_QUERIES = [
     "What opinions do students have about food and dining options?",
-    "What do students say about the crowdiness of the colleges?",
+    "What do students say about the crowdedness of the colleges?",
     "What do students say about the professors of the colleges?",
-    "What do students review the most postive from the colleges?",
+    "What do students review the most positive from the colleges?",
     "What do students review the most negative from the colleges?",
 ]
 
