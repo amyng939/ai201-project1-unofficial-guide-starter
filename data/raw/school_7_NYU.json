@@ -1,0 +1,820 @@
+{
+  "overall": "3.9",
+  "categories": [
+    {
+      "name": "Location",
+      "grade": "4.6"
+    },
+    {
+      "name": "Reputation",
+      "grade": "4.5"
+    },
+    {
+      "name": "Opportunities",
+      "grade": "4.4"
+    },
+    {
+      "name": "Happiness",
+      "grade": "4.1"
+    },
+    {
+      "name": "Internet",
+      "grade": "3.9"
+    },
+    {
+      "name": "Facilities",
+      "grade": "3.9"
+    },
+    {
+      "name": "Clubs",
+      "grade": "3.8"
+    },
+    {
+      "name": "Social",
+      "grade": "3.7"
+    },
+    {
+      "name": "Food",
+      "grade": "3.6"
+    },
+    {
+      "name": "Safety",
+      "grade": "3.5"
+    },
+    {
+      "name": "Location",
+      "grade": "4.6"
+    },
+    {
+      "name": "Safety",
+      "grade": "3.5"
+    }
+  ],
+  "reviews": [
+    {
+      "overall": "Overall3.8",
+      "header": "Jun 7th, 2026",
+      "comment": ".",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.5",
+      "header": "May 30th, 2026",
+      "comment": "Go for it",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "May 11th, 2026",
+      "comment": "LOVE",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "May 8th, 2026",
+      "comment": "asd",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.3",
+      "header": "Apr 30th, 2026",
+      "comment": "I love this school and the opportunity it gave me to flourish into my best self!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Apr 28th, 2026",
+      "comment": "standard",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.8",
+      "header": "Apr 22nd, 2026",
+      "comment": "its great",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Apr 16th, 2026",
+      "comment": "great uni",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.2",
+      "header": "Jan 28th, 2026",
+      "comment": "Great location.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.3",
+      "header": "Jan 26th, 2026",
+      "comment": "i was expeting more from this college. it's for very lonely people and rich kids",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.5",
+      "header": "Jan 5th, 2026",
+      "comment": "dont come here if you want a campus, and its lowkey too big",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.6",
+      "header": "Dec 19th, 2025",
+      "comment": "Somebody approached me on the street and asked me for money. Thought it was a homeless guy, found out later it was my ex. Sorry not sorry David. ;)",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.5",
+      "header": "Dec 13th, 2025",
+      "comment": "had a good time",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.2",
+      "header": "Dec 12th, 2025",
+      "comment": "best school ever",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.8",
+      "header": "Dec 11th, 2025",
+      "comment": "i",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.4",
+      "header": "Dec 10th, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.1",
+      "header": "Dec 3rd, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.2",
+      "header": "Dec 1st, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.4",
+      "header": "Oct 20th, 2025",
+      "comment": "I love NYU. Quality school with great opportunities. I would recommend to those who can afford it. For those who can't afford it, don't waste you money on debt at this place. You get more out of what you do outside of school than what the school actually provides. Also very very expensive cost of living outside of school.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.8",
+      "header": "Sep 28th, 2025",
+      "comment": "A school where you get what you put in!! Def more of an environment where you will have to try to meet people, opportunities and friends won't just fall in your lap, but there are so many ways to find community! Everyone here is super kind, and we def have more of a campus then people think, and you run into everyone all the time.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.3",
+      "header": "Sep 8th, 2025",
+      "comment": "Our \"third space\" is the library, really no campus; city life is fun, but you really need to go out of your way to make friends (especially if you're an introvert); take advantage of being in the city, you can really meet anyone",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.6",
+      "header": "Aug 23rd, 2025",
+      "comment": "No bad",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.3",
+      "header": "Jun 23rd, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.9",
+      "header": "May 31st, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.2",
+      "header": "May 30th, 2025",
+      "comment": "I would have rather spent my time reading the article about why you shouldn't go to nyu rather than have gone here. You can get the same education in Rhode Island for a third of the price",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.1",
+      "header": "May 28th, 2025",
+      "comment": "good interesting fancy can be hard to make connections with people (cliques, isolated, etc)",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.1",
+      "header": "May 14th, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.5",
+      "header": "May 4th, 2025",
+      "comment": "Cool school, but you really gotta push yourself to make friends and get involved. But the location is perfect, you are literally living in downtown manhattan, cmon.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.4",
+      "header": "Apr 25th, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.7",
+      "header": "Apr 20th, 2025",
+      "comment": "A great school if you really put yourself out there. Lots of opportunities and inspiring people if you seek them out within or out of NYU! Social life is peak if you bring out your extroverted side in the beginning of the year.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.3",
+      "header": "Jan 26th, 2025",
+      "comment": "Solid experience so far",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.0",
+      "header": "Nov 20th, 2024",
+      "comment": "tho very sociable place to be in, somehow feel very detached from people",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.1",
+      "header": "Oct 23rd, 2024",
+      "comment": "NYU is what you make out of it. You have to force yourself to get out there and do things. The campus is pretty nice and spaced out around Lower Manhattan (with WSQ at its core). Huge school population so the streets are pretty crowded during commute times. Lots of events and opportunities but again you have to take advantage of it. Study!!!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.6",
+      "header": "Sep 7th, 2024",
+      "comment": "The community at NYU is wonderful. There are a diverse amount of clubs and many ways to meet new people. The campus itself is a \"campus without walls\". The NYC branch doesn't have a formal campus but does not negatively impact social life. Academics are great with a variety of fields of study. The dining halls are variable in quality, but not bad.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Aug 4th, 2024",
+      "comment": "Worst decision ever. Too expensive and don't help you with anything afterwards.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.6",
+      "header": "Jul 11th, 2024",
+      "comment": "Great School Overall!!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Jul 2nd, 2024",
+      "comment": "Greatest",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.1",
+      "header": "Jun 10th, 2024",
+      "comment": "If you love both NYU and NYC, it's the right university for you. Get ready to study hard and play harder. Tuition fees are expensive, but there're many opportunities to find part-time jobs and obtain scholarships. So if you make reasonable use of learning resources, tuition fees are still worth it. Most of the professors are very nice.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "May 29th, 2024",
+      "comment": "I honestly wouldn't pick any other school over this one. There's something so calming about attending NYU. NYU fosters independence and ambition!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.8",
+      "header": "May 16th, 2024",
+      "comment": "Best place to study abroad",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "May 16th, 2024",
+      "comment": "what can i say ... best of the best",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.6",
+      "header": "May 16th, 2024",
+      "comment": "its awesome!!!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.4",
+      "header": "May 14th, 2024",
+      "comment": "I have a love-hate relationship with this school.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.9",
+      "header": "May 11th, 2024",
+      "comment": "It is what it is",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.7",
+      "header": "Apr 25th, 2024",
+      "comment": "Its NYU. What else can i say.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    }
+  ]
+}

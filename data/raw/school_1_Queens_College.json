@@ -1,0 +1,820 @@
+{
+  "overall": "3.2",
+  "categories": [
+    {
+      "name": "Safety",
+      "grade": "3.8"
+    },
+    {
+      "name": "Facilities",
+      "grade": "3.5"
+    },
+    {
+      "name": "Reputation",
+      "grade": "3.5"
+    },
+    {
+      "name": "Location",
+      "grade": "3.5"
+    },
+    {
+      "name": "Happiness",
+      "grade": "3.3"
+    },
+    {
+      "name": "Opportunities",
+      "grade": "3.2"
+    },
+    {
+      "name": "Clubs",
+      "grade": "3.1"
+    },
+    {
+      "name": "Internet",
+      "grade": "3.0"
+    },
+    {
+      "name": "Social",
+      "grade": "2.8"
+    },
+    {
+      "name": "Food",
+      "grade": "2.7"
+    },
+    {
+      "name": "Safety",
+      "grade": "3.8"
+    },
+    {
+      "name": "Food",
+      "grade": "2.7"
+    }
+  ],
+  "reviews": [
+    {
+      "overall": "Overall2.5",
+      "header": "Jun 4th, 2026",
+      "comment": "Not bad",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.4",
+      "header": "May 23rd, 2026",
+      "comment": "This is a very good school.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.5",
+      "header": "May 21st, 2026",
+      "comment": "Hi, so if you're thinking about coming here, the people are super cool, and the kids are okay if you find your people here. However, the staff and faculty here have the highest 50/50 rate of getting the best professor ever or the worst prof ever. The school's help center is even worse. Please visit the school and do research before going here.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "May 11th, 2026",
+      "comment": "The school isn't very good.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.2",
+      "header": "Mar 31st, 2026",
+      "comment": "Bro.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.1",
+      "header": "Mar 22nd, 2026",
+      "comment": "It's an okay school. Not much of a social life here but there's decent foods, decent buildings, and decent professors. It's an okay school to just go to get your education and nothing else.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.3",
+      "header": "Mar 11th, 2026",
+      "comment": "Mehh school",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.4",
+      "header": "Feb 19th, 2026",
+      "comment": "Very obviously underfunded but you get what you make of it.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.3",
+      "header": "Jan 27th, 2026",
+      "comment": "It is difficult to make friends here because most people are to themselves, and the fact that this is a commuter school doesn't make it any better. There are limited good food options in the area and none on campus. They have poor communication, especially when it comes to upcoming campus events. There is almost no school spirit. Transferring now",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Jan 21st, 2026",
+      "comment": "Best school ever for best future life",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.2",
+      "header": "Jan 16th, 2026",
+      "comment": "I genuienly regret coming here and I can't wait to transfer",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.0",
+      "header": "Oct 27th, 2025",
+      "comment": "Everyone that I have met, students and staff, are always friendly. The atmosphere is great and there is always a place to go to if you need someplace quiet to study or a place to go to if you need and help in studying.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.2",
+      "header": "Oct 14th, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Oct 1st, 2025",
+      "comment": "Please listen to the negative reviews and AVOID THIS SCHOOL IF YOU WANT TO MAJOR IN STEM!!! It's almost as if the professors here want to keep you in based on how much they can't teach, are unhelpful, and are EXTREMELY HARSH GRADERS regardless of how much you try. Do yourself a favor and enroll into a better school that actually cares about STEM!!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.8",
+      "header": "Sep 18th, 2025",
+      "comment": "I came here only because it was close to my house. It was not my first choice and I sincerely hope that anyone majoring in computer science does not come here. Worst Professors in the CS departments. They do not hire capable professors who can at least communicate properly. Every semester there should be individuals to judge if they doing their job",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.8",
+      "header": "Jun 7th, 2025",
+      "comment": "Queens College was alright, good school to go to for convenience and distance, decent undergrad programs, nothing special. Solid stepping stone for grad school. Location and advisors are good, professors are hit and miss, social life is not great. They also undersell the resources they have, try and explore the campus on an off day.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.6",
+      "header": "May 9th, 2025",
+      "comment": "I'm about to complete a full semester and have learned that the school is what you make it. Stay up to date on your emails for career readiness/internships/part-time positions, follow the school's social media to learn about monthly events, and look into clubs before club day to get an idea of what route you want to go. A really beautiful campus.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.7",
+      "header": "Mar 27th, 2025",
+      "comment": "Fairly average, to be honest. Attend if it's close to home, but otherwise, you might want to consider other options.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.2",
+      "header": "Mar 19th, 2025",
+      "comment": "School is great for art and for queens residents.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.0",
+      "header": "Mar 7th, 2025",
+      "comment": "Great sociology and philosophy classes. The professors here are really great, and the people at QC are super accommodating as long as you are there to learn which should be the point of your education. The classes are super fun and are really interesting if you try and immerse yourself into them. I highly recommend!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.1",
+      "header": "Feb 8th, 2025",
+      "comment": "Great school for the money! I loved it.Great professors.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.6",
+      "header": "Jan 28th, 2025",
+      "comment": "Just going into the accounting program and become an accountant to make 85k first year post-grad",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.6",
+      "header": "Jan 10th, 2025",
+      "comment": "The point of college is to get a high paying career out of it with as little debt as possible and high ROI. However, this college offers very little guidance. The career center, a very important facility, is extremely underfunded. It is hard to put your foot in the door and hard to get classes you need. You need to really know what career you want.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.1",
+      "header": "Jan 8th, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.5",
+      "header": "Dec 16th, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.6",
+      "header": "Dec 10th, 2024",
+      "comment": "It's a great school. Really wonderful professors.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.2",
+      "header": "Dec 2nd, 2024",
+      "comment": "lots of food options but theyre constantly changing. they have a few Halal as well. nothing Kosher yet",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.9",
+      "header": "Nov 26th, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.3",
+      "header": "Nov 17th, 2024",
+      "comment": "Best way to make way is through clubs. There have been a lot of changes to what and where you can eat. Food trucks are now on campus by the quad, and the student center has good stuff. I can't speak for all of them; professors depend mainly on the department.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.9",
+      "header": "Nov 1st, 2024",
+      "comment": "The negative comments are going to say what they say, but you get out of QC exactly what you put in. If you're not the type to take time to study by yourself this is not for you. There are some great professors here that will go out of their way to help you if you ask, but there's also bad ones. You just have to know how to navigate real life.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.4",
+      "header": "Oct 25th, 2024",
+      "comment": "Good school, especially for education majors. Only thing is there is too much traffic close to campus, but hey, it's the city.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.1",
+      "header": "Oct 23rd, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.5",
+      "header": "Oct 16th, 2024",
+      "comment": "they're tuition-farming here at QC (passing most 100-200-level classes so students get to the 300-level where they will almost certainly retake an indefinite number of times i.e. sunk cost). No resources whatsoever for CS majors, they will fail you for the SLIGHTEST error the minute you hit 300-level classes bc they know you'll retake. STAY AWAY.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.8",
+      "header": "Oct 6th, 2024",
+      "comment": "Barely feels like I even go here. The professors give nothing in terms of guidance, help, etc. Complete lack of even the bare minimum from the Comp Sci dept to interact with/help students. Brightspace is a DISASTER, most professors don't even bother posting exercises/material most of the time so none of us even know what to do. Do not enroll here.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Aug 29th, 2024",
+      "comment": "Best decision I ever made.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.7",
+      "header": "Aug 21st, 2024",
+      "comment": "It's not too bad. Some departments are better than others.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.7",
+      "header": "Aug 4th, 2024",
+      "comment": "Get better profs for some CS classes and QCCS should be highly ranked.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Jul 5th, 2024",
+      "comment": "The best school to go to in NY",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.1",
+      "header": "Jun 6th, 2024",
+      "comment": "I DO NOT RECOMMEND THIS SCHOOL TO ANY STUDENT IF YOU NEED HELP IN ACADEMIC. YOU CAN DO BETTER WITH ANY OTHER SCHOOL! WORSE DECISION EVER TO GET INTO THIS SCHOOL.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.6",
+      "header": "May 21st, 2024",
+      "comment": "Do not go here, they do not help you, they pretend like your best friend while enrolled but don't care two hoots about you thereafter. Going to right a proper review on a couple professors in the nutrition and exercise sciences program soon",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "May 13th, 2024",
+      "comment": "do not go for stem, FNES, or any health profession major. It is good for majors in arts and education.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.4",
+      "header": "May 11th, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "May 11th, 2024",
+      "comment": "This school is basically a scam, at least the program I was in was...",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.5",
+      "header": "May 6th, 2024",
+      "comment": "Great for a cheap art education!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.5",
+      "header": "Apr 23rd, 2024",
+      "comment": "If you are looking for an art school that doesn't cost an unreasonable amount of money, chose Queens College. The professors are incredible knowledgable and work in the field in NYC which is an epicenter of art. There is an art community which is stellar for artistic development. Queens College Art Department has over delivered.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    }
+  ]
+}

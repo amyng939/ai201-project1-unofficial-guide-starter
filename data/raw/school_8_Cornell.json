@@ -1,0 +1,820 @@
+{
+  "overall": "4.4",
+  "categories": [
+    {
+      "name": "Reputation",
+      "grade": "4.8"
+    },
+    {
+      "name": "Facilities",
+      "grade": "4.6"
+    },
+    {
+      "name": "Opportunities",
+      "grade": "4.5"
+    },
+    {
+      "name": "Food",
+      "grade": "4.4"
+    },
+    {
+      "name": "Safety",
+      "grade": "4.4"
+    },
+    {
+      "name": "Internet",
+      "grade": "4.3"
+    },
+    {
+      "name": "Clubs",
+      "grade": "4.3"
+    },
+    {
+      "name": "Happiness",
+      "grade": "4.2"
+    },
+    {
+      "name": "Social",
+      "grade": "4.0"
+    },
+    {
+      "name": "Location",
+      "grade": "3.5"
+    },
+    {
+      "name": "Reputation",
+      "grade": "4.8"
+    },
+    {
+      "name": "Location",
+      "grade": "3.5"
+    }
+  ],
+  "reviews": [
+    {
+      "overall": "Overall4.7",
+      "header": "May 12th, 2026",
+      "comment": "Great, cold",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.2",
+      "header": "May 11th, 2026",
+      "comment": "This location sucks. Very safe, only have to worry about not getting jumped by wild animals.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Apr 28th, 2026",
+      "comment": "I like it",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.4",
+      "header": "Apr 25th, 2026",
+      "comment": "Lots of opportunities in almost anything you want to do if you are willing to put a lot of effort in. Sports/outdoors clubs are amazing, but pre-professional clubs and project teams are toxically competitive.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.5",
+      "header": "Apr 21st, 2026",
+      "comment": "I enjoy being in a safe student-based town with so many opportunities in research, project teams (albeit competitive to get into), and amazing professors.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.3",
+      "header": "Mar 23rd, 2026",
+      "comment": "PT's / research are all competitive, very limited. Clubs / PT's aren't the best due to people's attitudes; sports clubs are great. Social is awkward and not always friendly. Outdoors is great outside winter. Generally people are happy. Not a lot of room to grow, but if you're already good, it's great place to do well. Very unforgiving environment.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.0",
+      "header": "Feb 25th, 2026",
+      "comment": "Average",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Feb 19th, 2026",
+      "comment": "Coming from someone who transferred from another elite school, Cornell University is unique in how thoroughly it can prepare you for the next steps after college. Even in a tough professional job market my friends and I have secured top jobs by virtue of Cornell's network.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.6",
+      "header": "Jan 15th, 2026",
+      "comment": "I transferred here as a soph. Incredible research opportunities and great food compared to most colleges. Ithaca isn't for everyone, but I love being in a collegetown with public transport. Bad grading system, especially in STEM. The clubs are way too competitive, and the gyms need more room. Besides academics, it's a nice experience overall",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.4",
+      "header": "Dec 28th, 2025",
+      "comment": "Good Ivy League school, but bad location, harsh professors, harsh grading system, and very competitive club culture.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.6",
+      "header": "Dec 23rd, 2025",
+      "comment": "Good school, very hard on people",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.7",
+      "header": "Dec 13th, 2025",
+      "comment": "I love Cornell but I hate Ithaca.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.8",
+      "header": "Jun 27th, 2025",
+      "comment": "Go big red! The people truly elevate the school.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.0",
+      "header": "Jun 15th, 2025",
+      "comment": "Not a good school for chemical engineers",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.8",
+      "header": "Jun 4th, 2025",
+      "comment": "great school",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.1",
+      "header": "Dec 30th, 2024",
+      "comment": "Beautiful school but also freezing, top-notch professors making breakthrough discoveries in their fields, rigorous academic workload even in intro classes, too many exclusive clubs/parties so can feel isolating, college town is only ok but downtown Ithaca is very hippy and imo too far from Cornell, lots of walking (Cornell calves theory is true!)",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.1",
+      "header": "Dec 24th, 2024",
+      "comment": "cornell is the best. it's hard but so worth it. the people make the place",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.5",
+      "header": "Dec 9th, 2024",
+      "comment": "Although I am kinda regretted to attend this school after graduation, I suppose that I would make the same decision and join Cornell in 2017.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.1",
+      "header": "Oct 20th, 2024",
+      "comment": "hard",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.2",
+      "header": "Oct 16th, 2024",
+      "comment": "This is a wonderful school - location depends on if you are an outdoor kind of person. I personally think it's amazing, others may not agree. Wonderful campus, rigorous coir",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.8",
+      "header": "Sep 11th, 2024",
+      "comment": "The campus is stunning and there's a variety of food options. Love it so much! Wish I could go back in time and be a student again .",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Aug 26th, 2024",
+      "comment": "It is great",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.1",
+      "header": "Jun 14th, 2024",
+      "comment": "Its so fun and i love everyone here. The food here is great, but DONT go into common room 2b.......................",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.6",
+      "header": "Jun 6th, 2024",
+      "comment": "good place to go!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.9",
+      "header": "May 11th, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "May 2nd, 2024",
+      "comment": "The best Ivy. And it's non-violent! Spectacular school in a beautiful place that makes Harvard, Yale, Columbia, Penn and Princeton feel like holding tanks for the entitled of the planet. Come here to learn and grow, not just shop and protest because you are bored. It's the real deal.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.4",
+      "header": "Dec 20th, 2023",
+      "comment": "Location is a big one make sure u like being a campus school",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.1",
+      "header": "Dec 5th, 2023",
+      "comment": "As a current Engineering student, I do like it. Combination between state school and ivy league vibes. This means you get the best of both worlds, but also the worst. You get the fun party culture, and good learning opportunities, but also its stressful and can be isolating at times with greek life being the center of socials.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Nov 24th, 2023",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.2",
+      "header": "Nov 6th, 2023",
+      "comment": "if you're a low income student financial aid might have you messed up or put holds on your account since you have to do more work. also, some faculty and staff really let the power go to their heads, and i think they've forgotten that their duty is really to serve, protect, and help uplift the student body",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.2",
+      "header": "Oct 25th, 2023",
+      "comment": "Great school, but can be intense. The campus is beautiful, but it's freezing for more than half of the year. Socially, Cornell is dependent on Greek Life and the town doesn't have much to offer. Campus food is standard. Campus goods are expensive. Cornell can come across as greedy despite high tuition. Still, I've made great memories here.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.5",
+      "header": "Sep 15th, 2023",
+      "comment": "The Cornell experience differs vastly from person to person. I find this a beautiful place, the weather's definitely not always the best - but summer and fall are so pretty. The classes are great, some professors are amazing! Dining seems to be better than most other schools, I like my Cornell experience so far!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.0",
+      "header": "Aug 18th, 2023",
+      "comment": "Cornell is great! If you can afford it, come!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.4",
+      "header": "Aug 9th, 2023",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.3",
+      "header": "Jul 27th, 2023",
+      "comment": "Having just graduated from here, this school definitely isn't for everyone but I had a great time. It took me a while to find my community, but once I did, I realized how lucky I was to be here.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Jul 21st, 2023",
+      "comment": "I love this school so much, no regret",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.7",
+      "header": "May 30th, 2023",
+      "comment": "Honestly location is bad viewed in the perspective of getting in or out of Ithaca. If we only look at how the area is, then it's not bad at all. Lots of nature, beautiful trails (a 30 min waterfall trail on the way to school from downtown), winter activities nearby. Most snowstorms tend to avoid this area for some reason.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.6",
+      "header": "Apr 18th, 2023",
+      "comment": "Most people like to diss on Cornell, but it's a great school. I have had some great professors, but grade deflation is very real here so don't expect an easy A. Also, lots of entitled rich students, which is definitely a change from coming from a poor, rural area in the south. I have never felt unsafe walking across campus at 2am as a short woman.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.0",
+      "header": "Feb 22nd, 2023",
+      "comment": "It's a great school but not for everyone. Do your research before coming.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.7",
+      "header": "Feb 11th, 2023",
+      "comment": "Fantastic by almost all metrics: academics, faculty, reputation, opportunities, and yes, even location (Ithaca, while remote, is stunning). It can occasionally be challenging to navigate the egos of fellow students, but I have made many lifelong friends here regardless. And unlike that safety school in Boston, there's no grade inflation! 10/10.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.6",
+      "header": "Feb 2nd, 2023",
+      "comment": "The course are pretty good, you can learn many knowledge in the course. Many professors are very nice (except my advisor), and also very famous in academia. Be careful to choose your advisor, although many professors are good, but some are not. Remember you always have the chance to change your professor. The food and safety are also excellent.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.8",
+      "header": "Jan 23rd, 2023",
+      "comment": "It's in the middle of nowhere, but otherwise, Cornell is an amazing school that will benefit you for the rest of your life.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.3",
+      "header": "Dec 8th, 2022",
+      "comment": "top tier school, wouldn't really want to be anywhere else. only complaints are that the work is very tough (compared to other ivies), and ithaca is sorta wack and in the middle of nowhere. overall beautiful campus and great academic/career opportunities",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.7",
+      "header": "Dec 8th, 2022",
+      "comment": "Great programs and tons of opportunities for students.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.9",
+      "header": "Nov 2nd, 2022",
+      "comment": "amazing academically but is very cliquey and can put a high emotional toll",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    }
+  ]
+}

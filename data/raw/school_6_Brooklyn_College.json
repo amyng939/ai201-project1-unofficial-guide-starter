@@ -1,0 +1,820 @@
+{
+  "overall": "3.4",
+  "categories": [
+    {
+      "name": "Location",
+      "grade": "3.7"
+    },
+    {
+      "name": "Reputation",
+      "grade": "3.7"
+    },
+    {
+      "name": "Facilities",
+      "grade": "3.6"
+    },
+    {
+      "name": "Happiness",
+      "grade": "3.6"
+    },
+    {
+      "name": "Safety",
+      "grade": "3.5"
+    },
+    {
+      "name": "Opportunities",
+      "grade": "3.4"
+    },
+    {
+      "name": "Clubs",
+      "grade": "3.2"
+    },
+    {
+      "name": "Internet",
+      "grade": "3.0"
+    },
+    {
+      "name": "Social",
+      "grade": "3.0"
+    },
+    {
+      "name": "Food",
+      "grade": "2.9"
+    },
+    {
+      "name": "Location",
+      "grade": "3.7"
+    },
+    {
+      "name": "Food",
+      "grade": "2.9"
+    }
+  ],
+  "reviews": [
+    {
+      "overall": "Overall3.9",
+      "header": "Apr 22nd, 2026",
+      "comment": "It's good",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.2",
+      "header": "Apr 17th, 2026",
+      "comment": "Ive had issues after issues with this school it can go from mold to professors being extremely rude and sexist.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.8",
+      "header": "Mar 18th, 2026",
+      "comment": "rip east wing",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.4",
+      "header": "Mar 16th, 2026",
+      "comment": "The campus is nice though the building aren't new. Many clubs, many ways to make friends, the Student Center has many activities. As a business and economics student, some professors don't take teaching seruously. Wish the school was more serious about professional development and provided more opportunities and events for business students.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.3",
+      "header": "Mar 9th, 2026",
+      "comment": "Its pretty mid, nothing goes on nothing really happens",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.2",
+      "header": "Mar 5th, 2026",
+      "comment": "I love going to Brooklyn College. People are very nice and helpful administrators. The teachers all really care! The campus is beautiful! Depending on the buildings are a little outdated and bare bones but the teachers and academia make up for that.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.5",
+      "header": "Feb 19th, 2026",
+      "comment": "This is my third semester and I feel like I haven't learned anything beneficial for my life ... they are just pathway requirements.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.7",
+      "header": "Dec 29th, 2025",
+      "comment": ":)",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.2",
+      "header": "Dec 21st, 2025",
+      "comment": "never has internet",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.6",
+      "header": "Dec 19th, 2025",
+      "comment": "not bad",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.8",
+      "header": "Dec 18th, 2025",
+      "comment": "as an online student, there is no help for virtual students. still expected to travel to campus even though i am a virtual degree with virtual classes.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.7",
+      "header": "Dec 18th, 2025",
+      "comment": "For students with disabilities, the staff are understanding, respectful, and genuinely committed to helping each student succeed. Overall, Brooklyn College goes above and beyond to ensure students feel secure, supported, and valued.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.8",
+      "header": "Dec 11th, 2025",
+      "comment": "Great school great value. If you want opportunities, they're definitely there. But most people's definition of opportunity is basically doing nothing and expecting to be offered everything. Because so many people are passive you can capitalize on a lot of opportunities with little competition. Buildings need work, faculty are REALLY GOOD.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Dec 10th, 2025",
+      "comment": "Dirty and run down school that needs a facelift. They also need to hire a bunch of whole new staff since so many of the professors are old and out of touch with everything.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.3",
+      "header": "Sep 27th, 2025",
+      "comment": "Not a bad school. Make connections where you can and you will succeed. I had no issue getting a job after graduating from BC.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.4",
+      "header": "Jul 18th, 2025",
+      "comment": "Past Student Here. Brooklyn College has an amazing campus, Lots of old buildings? Sure but CUNY schools (especially in the city) you stare at concrete all day. There's lots of green spaces and even a nice pond to relax and clear your mind. There's lots of food spots near by and there's a huge cafeteria on campus. Most teachers are great",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.3",
+      "header": "May 23rd, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.9",
+      "header": "May 10th, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.4",
+      "header": "Apr 25th, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.0",
+      "header": "Apr 22nd, 2025",
+      "comment": "For the tuition 100% worth it. The education here is generally effective even with some bad professors most of them excel at teaching or are fair enough in an intro class you can walk out with a decent grade. Everything has a trade off, it rates poor socially unless you seek it out, campus looks magnificent, but some buildings need work.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.3",
+      "header": "Mar 18th, 2025",
+      "comment": "This school is what you make of it, the best way to get the most is to connect with department heads, students, clubs etc decent food on campus, and lots of eats around. Easy + fast commute beautiful campus, a few old buildings",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.2",
+      "header": "Feb 16th, 2025",
+      "comment": "It's alright. Not great not bad.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.7",
+      "header": "Jan 27th, 2025",
+      "comment": "getting help here is no existent",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.1",
+      "header": "Dec 27th, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.9",
+      "header": "Nov 13th, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.6",
+      "header": "Nov 3rd, 2024",
+      "comment": "The vendors on campus are not it, but the location for getting to school is amazing lots of bus and train lines nearby! This is one run-down campus if you go inside the old buildings. the grass is nice and it's a closed campus. Lot's of networking opportunities if you look :)",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.8",
+      "header": "Oct 24th, 2024",
+      "comment": "my first year but it's pretty good, a lot of stores especially food-related stores, even thou the campus doesn't have food in the cafeteria there are a ton of options and food trucks on campus (cheap coffee as well). nothing has happened to me on campus that put my safety at risk, security does there job in making sure no random person enters.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.4",
+      "header": "Oct 9th, 2024",
+      "comment": "Its very aesthetically pleasing and calm.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.7",
+      "header": "Sep 23rd, 2024",
+      "comment": "I love it",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.6",
+      "header": "Sep 10th, 2024",
+      "comment": "The campus was honestly the best compared to the other CUNY schools.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.4",
+      "header": "Aug 5th, 2024",
+      "comment": "The school is great! I'm very happy I got to attend this campus. It is beautiful! The professors I got to interact with were all good in my anthropology department. The only minus is the overall lack of permanent staff of professors and over-reliance on adjuncts. That is a systematic issues across all the CUNYs unfortunately. Great school.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.9",
+      "header": "Jun 1st, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.3",
+      "header": "May 29th, 2024",
+      "comment": "Overall it's a decent school and I enjoy going there. Everyone is nice in passing but once you get to know each other, you realize we're all decent human beings. The location is convenient but the surrounding neighborhood can be unsafe or just dirty. Great professors, and many resources to help you out. If you want a degree, and quick, go here.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.7",
+      "header": "May 25th, 2024",
+      "comment": "Any school is really what you make of it. Location - excellent - clubs. events and happening on a daily basis. There are so many places on campus to get help in any situation if needed. Student affairs and the Career Center as well as advisement are there for you. Campus is beautiful- get involved, enjoy your time there -it's what YOU make of it!!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.3",
+      "header": "Apr 16th, 2024",
+      "comment": "This school offers no help on advisement and has the laziest workers and staff. The science department is a joke and won't teach you anything to pass.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.8",
+      "header": "Apr 12th, 2024",
+      "comment": "It's great",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.4",
+      "header": "Feb 7th, 2024",
+      "comment": "A lot of things could use improvement. The computer science department is atrocious, especially in comparison with other CUNYs.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.2",
+      "header": "Nov 13th, 2023",
+      "comment": "The most quietest school ever if you want friends and a social life, do not come here",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.5",
+      "header": "Oct 25th, 2023",
+      "comment": "Campus is gorgous and known for its nature qualitites",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.7",
+      "header": "Sep 30th, 2023",
+      "comment": "location-plenty of greenery, near restaurants opportunities-decent Fac&common-library is insane but their elevators are kinda scary ngl, plenty spots, there's a pond internet- sometimes cuts off during common resting times food-none on campus other than vending machines and farmer's fridge. cafeteria under renovation? idk. available seating though",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.1",
+      "header": "Aug 25th, 2023",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Aug 2nd, 2023",
+      "comment": "I love this school cause it's so cheap and I have a lot money. Lol",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.7",
+      "header": "Jul 9th, 2023",
+      "comment": "Rated 5 for food b/c there are tons of food spots surrounding campus. There are sororities/fraternities, variety of sports teams to join, variety of clubs to join. The campus is great with multiples seating options outdoors, Infront of the pond or near the track field. Also, the library is open until very late, which is great if you need to study.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.3",
+      "header": "May 24th, 2023",
+      "comment": "The Computer Science Department is crumbling as well as their central building. It's an ancient facility, with ancient teaching ways of teaching. Most of my professors did not want to be there. The student body as a result is depressed and indifferent. I have never figured out why this the CS department was ever held in any regard, seeing it today.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.7",
+      "header": "May 20th, 2023",
+      "comment": "Its alright",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    }
+  ]
+}

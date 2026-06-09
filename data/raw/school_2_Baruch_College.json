@@ -1,0 +1,820 @@
+{
+  "overall": "3.4",
+  "categories": [
+    {
+      "name": "Location",
+      "grade": "4.2"
+    },
+    {
+      "name": "Safety",
+      "grade": "4.1"
+    },
+    {
+      "name": "Reputation",
+      "grade": "4.0"
+    },
+    {
+      "name": "Opportunities",
+      "grade": "3.8"
+    },
+    {
+      "name": "Happiness",
+      "grade": "3.4"
+    },
+    {
+      "name": "Clubs",
+      "grade": "3.3"
+    },
+    {
+      "name": "Internet",
+      "grade": "3.2"
+    },
+    {
+      "name": "Facilities",
+      "grade": "3.1"
+    },
+    {
+      "name": "Social",
+      "grade": "2.8"
+    },
+    {
+      "name": "Food",
+      "grade": "2.8"
+    },
+    {
+      "name": "Location",
+      "grade": "4.2"
+    },
+    {
+      "name": "Food",
+      "grade": "2.8"
+    }
+  ],
+  "reviews": [
+    {
+      "overall": "Overall4.8",
+      "header": "May 29th, 2026",
+      "comment": "Best CUNY College",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.8",
+      "header": "May 22nd, 2026",
+      "comment": "Great school for many career paths. Met some amazing humanities professors with impressive backgrounds and true passion for what they do. Naturally, some professors aren't the best (as is the case w/ every college ever) but they don't outweigh the opportunities, environment, and safety of the school that you get from CUNY. Highly recommend.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.4",
+      "header": "May 22nd, 2026",
+      "comment": "Best CUNY school!!!!!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Apr 23rd, 2026",
+      "comment": "Outstanding and affordable education",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.8",
+      "header": "Mar 11th, 2026",
+      "comment": "Worst CUNY college ever. The most mismanaged college. There are some great professors but some of the professors are bunch of clowns. The departments like ISSC, office of graduate studies and office of registrar. Absolutely worst departments.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.1",
+      "header": "Feb 8th, 2026",
+      "comment": "Good school for business or accounting. Great location almost midtown. The closest thing u have for a cafeteria are microwaves shared among thousands.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.6",
+      "header": "Feb 3rd, 2026",
+      "comment": "What's up with the lack of SACC appointments for intermediate and advanced economics? Is this Baruch College? The best public business school in the northeast or what? These are some of the most challenging classes in the major, yet supportive resources seem limited.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.3",
+      "header": "Feb 3rd, 2026",
+      "comment": "As it relates to master's programs, I have enjoyed the diversity and professionalism of the student cohort, the many programs and events available, the faculty and the campus location. It is a great institution and definitely a great investment!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.8",
+      "header": "Jan 9th, 2026",
+      "comment": "Baruch is a respectable and known school, they offer alot of opportunities, and theres alot of networking events here.It is a antisocial school, so you have to make the best and put yourself out there. Join clubs ! A big chunk of the professors are not good like the elevators here , and some prof are really good. Goodluck and just keep going !",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.5",
+      "header": "Jan 2nd, 2026",
+      "comment": "The classes are packed, so not much class participation is encouraged. Many profs recommend using ChatGPT since they don't want to bother teaching students how to write on their own. And it seems that the college admin does not think textbooks are important since it's pushing \"open educational resources.\"",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.2",
+      "header": "Dec 22nd, 2025",
+      "comment": "very good school if you are interested in business",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.2",
+      "header": "Dec 21st, 2025",
+      "comment": "If you're an introvert, you're cooked",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.3",
+      "header": "Dec 13th, 2025",
+      "comment": "AMAZING",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.2",
+      "header": "Dec 12th, 2025",
+      "comment": "the College is good but advisors should be a little more helpful maybe students need to be assigned to an specific one to have an easier school life.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.3",
+      "header": "Nov 14th, 2025",
+      "comment": "Great for accounting and finance, you get what you pay for it. Clubs however are not the best, you are better going out of the city for that. Networking and opportunities are better here though. Be mindful that this is a commuter school so it's rare for anyone to stick around after classes.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.4",
+      "header": "Nov 13th, 2025",
+      "comment": "The school serves students who are purposeful and goal-oriented.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Nov 13th, 2025",
+      "comment": "Very good choice for students pursuing a career in accounting.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Nov 13th, 2025",
+      "comment": "Great School",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.0",
+      "header": "Oct 30th, 2025",
+      "comment": "You do have to go out of your way to get answers when it comes to your schedule or things like that. But I feel like every CUNY college is like that. The school is fun is you're willing to interact with others.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.1",
+      "header": "Oct 22nd, 2025",
+      "comment": "This is a very good school but it makes me so miserable I can't believe there is a chance for me to ever live a happy life.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.5",
+      "header": "Oct 21st, 2025",
+      "comment": "This school offers a variety of experiences. Their are various events to attend. They offer free tutoring and even have a great writing center.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Sep 12th, 2025",
+      "comment": "Very cool school. Lots of opportunities and backgrounds to connect with.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.9",
+      "header": "May 25th, 2025",
+      "comment": "A lot of the professors just read off the slides. There are limited tutoring sessions for upper-level classes and limited office hours.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.4",
+      "header": "May 23rd, 2025",
+      "comment": "In my experience, Baruch is a great college. The faculty and opportunities are outstanding. The location could not be easier to get to. The internet worked every time I logged on. I think they could improve the amount of seating and study areas as well as improve the quality of the gym by keeping it orderly and clean. Final grade on the school: A-",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.1",
+      "header": "May 18th, 2025",
+      "comment": "Baruch, being a CUNY has many flaws. In addition to being a city college, there is a lack of the social aspect in typical colleges. However, one thing it doesn't lack, is the opportunities. The professors are one thing, but the clubs offer a great headstart to break into the finance industry. If you do your due diligence you will thrive.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.2",
+      "header": "Apr 9th, 2025",
+      "comment": "It's an okay school. The building does need a lot of work and more seating areas. Heat needs to be turned on in winter because some of the classrooms are very cold. Also, professors got to step up their game. Most of them are just reading off slides.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.3",
+      "header": "Dec 27th, 2024",
+      "comment": "Baruch College excels in business education through its prestigious Zicklin School of Business, affordability, and prime location in Manhattan. It offers students access to internships and networking opportunities in a diverse and vibrant environment. However, it has limited campus life as a commuter school and high program competition.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.6",
+      "header": "Dec 24th, 2024",
+      "comment": "Transferring here was probably the better idea. Good school and helps a ton with networking. Professors actually want you to pass and I havent really had a bad experience. Good school/",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.8",
+      "header": "Dec 23rd, 2024",
+      "comment": "I graduated Baruch undergrad (accounting) with no debt and an job at a big four firm. I recommend this school for anyone who is self driven and knows how to manage their time and work well. Don't expect much else from the school. The faculty is a mixed bag. Do your due diligence and you will thrive.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.3",
+      "header": "Dec 21st, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.5",
+      "header": "Nov 5th, 2024",
+      "comment": "If you are a hard worker, and you don't care too much about the social side of the college experience, Baruch is a 5/5. In business, law, and related fields, you will find that making connections and getting work will be much easier than any other non-ivy school.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.7",
+      "header": "Oct 23rd, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.0",
+      "header": "Oct 20th, 2024",
+      "comment": "seems accurate",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.2",
+      "header": "Jul 29th, 2024",
+      "comment": "Very bad facilities, they are depressing",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.0",
+      "header": "Jun 29th, 2024",
+      "comment": "The quality of education is good. It's worth coming here if you are already working and need to finish a degree. Otherwise, I suggest going to a college with better resources. I know that the job market is extremely difficult right now, but it is clear that the top NYC employers simply do not respect/recognize the non-accounting programs.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.7",
+      "header": "Jun 12th, 2024",
+      "comment": "Poorly funded and we don't get dedicated supplementary TA sessions even for a large course unlike Columbia. Good professors seem busy and they don't bother to care individual students. I guess we get what we pay for.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.8",
+      "header": "Jun 3rd, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.1",
+      "header": "Jun 3rd, 2024",
+      "comment": "I mean the school is alright. You get what you pay for I guess.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.4",
+      "header": "May 28th, 2024",
+      "comment": "POV:",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "May 25th, 2024",
+      "comment": "Good college",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.2",
+      "header": "May 25th, 2024",
+      "comment": "It's not a bad school.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.0",
+      "header": "May 21st, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.7",
+      "header": "May 19th, 2024",
+      "comment": "The science department here is a joke, majority of the science professors suck and the good ones barely teach there",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.6",
+      "header": "May 17th, 2024",
+      "comment": "Baruch is a great school but you need to grindddddd. If your ambitions and career oriented this is perfect, make use of the STARR events and join clubs. It's a great school in a location where you can do lot of internship during the semester.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.1",
+      "header": "May 3rd, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    }
+  ]
+}

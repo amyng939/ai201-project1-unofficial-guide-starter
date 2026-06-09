@@ -1,0 +1,820 @@
+{
+  "overall": "2.9",
+  "categories": [
+    {
+      "name": "Reputation",
+      "grade": "3.2"
+    },
+    {
+      "name": "Opportunities",
+      "grade": "3.1"
+    },
+    {
+      "name": "Happiness",
+      "grade": "3.1"
+    },
+    {
+      "name": "Facilities",
+      "grade": "3.0"
+    },
+    {
+      "name": "Location",
+      "grade": "3.0"
+    },
+    {
+      "name": "Clubs",
+      "grade": "2.9"
+    },
+    {
+      "name": "Internet",
+      "grade": "2.8"
+    },
+    {
+      "name": "Social",
+      "grade": "2.8"
+    },
+    {
+      "name": "Safety",
+      "grade": "2.7"
+    },
+    {
+      "name": "Food",
+      "grade": "2.4"
+    },
+    {
+      "name": "Reputation",
+      "grade": "3.2"
+    },
+    {
+      "name": "Food",
+      "grade": "2.4"
+    }
+  ],
+  "reviews": [
+    {
+      "overall": "Overall1.8",
+      "header": "Jun 5th, 2026",
+      "comment": "subpar academic body. one required course EE25900 is really an ill-prepared, ill-taught, run down course that makes no sense. The grading distribution in this course is simply haphazard because who teaches it is a total slob. avoid Grove at all costs. Manhattan College is far superior in all engineering fields.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Jun 2nd, 2026",
+      "comment": "This school system will give you nightmares, PTSD, & STRESS. I hope another student that is feeling down finds this post, remains resilient & doesn't give up like CCNY tells you to. Asinine school with overcrowded classes, misleading class description. E permits takes long time to process if you're an engineering major. pay for a different major",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.6",
+      "header": "Jun 2nd, 2026",
+      "comment": "you will learn theory, no numbers but only proofs... spend hours learning and be tested on something totally different or which is not taught on the book....Save Your Money, pay for a different major. you will graduate earlier in 4 years and probably get to work earlier. otherwise stay there for almost 6-8 years.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.9",
+      "header": "May 29th, 2026",
+      "comment": "CCNY Engineering relies on hostile bottlenecks and scheduling traps. When students use ePermits to graduate on time, the administration actively blocks them. I survived by routing courses through four campuses, but the system is built to break you",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "May 22nd, 2026",
+      "comment": "overcrowded classes, misleading class description. E permits take long time to process if you're an engineering major, considering you can't even enroll because classes are full. Job prospects for 90% of majors are mta and con ed",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.9",
+      "header": "May 22nd, 2026",
+      "comment": "Trying to make progress toward my Electrical engineering degree & several required electives weren't not available through advising plan I was given. When I raised concerns, I didn't not feel they were addressed in a constructive way. Overall, the experience negatively affected my academic planning.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.4",
+      "header": "May 22nd, 2026",
+      "comment": "Rest in peace if you're doing electrical engineering, anyone taking ee205 but needs to take ee306 is getting screwed due to EE combine ee205/306 as 1 class (program change). If you're still into EE, transfer to a better school in SUNY. I only recommend CCNY by taking engineering courses at cuny price. Save yourself frustration & getting screwed",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.3",
+      "header": "May 12th, 2026",
+      "comment": "Professors don't care about what they teach, care even less about what you learn, are chronic over-sharers, and multiple professors have talked about which students will make it. It is a bad environment no matter your field but at least the connections you make with the other students can be good.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Apr 24th, 2026",
+      "comment": "If you're serious about engineering and computer science, pick your choices carefully. It may be worth to make it a sacrifice to go to a better school in the SUNY. Engineering here is dysfunctional and you will need to self study a lot here.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Apr 22nd, 2026",
+      "comment": "Science courses feel very challenging, with grading & exam expectations sometimes feeling inconsistent. Students often rely heavily on peers & self-study due to limited structured support. Workload & environment can feel very stressful/demanding. students may feel participation or subjective factors play in final outcomes which can be frustrating",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Apr 22nd, 2026",
+      "comment": "Student support services can feel inconsistent at times, and responses to concerns may vary. Navigating administrative processes sometimes requires persistence and self-advocacy. Students should be prepared to be proactive when seeking help or information.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Apr 22nd, 2026",
+      "comment": "CCNY & Grove was a difficult experience as a STEM student. I often had to rely heavily on self-study due to limited instructional support & infrequent course offerings. Resources & career guidance felt limited, & graduating on time was challenging. Students should plan early internships & be prepared for a highly independent learning environment.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Apr 22nd, 2026",
+      "comment": "My experience at Grove school of engineering was very challenging. I went from honors to dismissal due to low GPA. Exams often didn't match lectures, classes filled fast, and support felt limited. Save your money—consider a different major to graduate on time, or go elsewhere if you're serious about engineering.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Apr 22nd, 2026",
+      "comment": "engineering here may work well for students who are very comfortable with theoretical material & independent learning. However, if you prefer structured teaching, applied work, or more guided support, you may want to consider other options. Hard to enroll in required classes. Many filled up quickly & getting permission is challenge.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Apr 8th, 2026",
+      "comment": "CCNY is a 3rd world country, professors and people that run grove school are unreasonable and engineering programs are disorganized. Rest in peace if you're an engineering student, save yourself constant frustration & advisors never help which means you have to figure things out yourself, dysfunctional college I ever attended. Save your money",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Apr 2nd, 2026",
+      "comment": "Save yourself from getting screwed by this college. City College of NY is cheap, but the experience reflects it. Have fun trying to get ePermits especially if you're an engineering major—which is one of the only ways to survive here. It's inconsistent, competitive, and not something you can rely on. Pay for a different major to graduate on time.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Mar 30th, 2026",
+      "comment": "I've noticed the computer science program is run by unreasonable professors who don't seem willing to help students. When I asked an advisor about classes, I was given options that were full or not offered, and the response was essentially “take it or leave it,” which felt dismissive and frustrating.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Mar 30th, 2026",
+      "comment": "I have seen A cycle that can delay graduation & makes it hard to plan ahead. It feels like poor coordination between departments, leaving students stuck trying to make schedules work. This school really needs to improve how prerequisites & required courses are scheduled so students can progress without unnecessary setbacks",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Mar 30th, 2026",
+      "comment": "most frustrating issues I've experienced at CCNY is inconsistent course availability, especially with prerequisites. required class isn't offered because pre-req isn't available that semester. Then, after finally completing pre-req, actual class needed for your degree isn't offered following term.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Mar 30th, 2026",
+      "comment": "There's poor coordination with prerequisites and required courses. You can't take a class because the prereq isn't offered, then after completing it, the needed course isn't available. This delays graduation and creates unnecessary stress.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.2",
+      "header": "Mar 30th, 2026",
+      "comment": "Course availability is really inconsistent. Sometimes required classes aren't offered because the prereqs aren't available. Then once you finish the prereq, the class you actually need disappears next semester. It makes planning your degree frustrating.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Mar 26th, 2026",
+      "comment": "Professor don't care about students, can't teach, and show favoritism. in some programs courses are offered once a year not once a semester. Finally, engineering school technology is very weak compared to other schools. (Other schools have labs for the equipment we see on the textbooks only).",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.6",
+      "header": "Mar 16th, 2026",
+      "comment": "I transferred here from UNLV following the shooting in 2023 and I regret it everyday. I genuinely would rather have my mind wiped daily, and then have to relive the shooting every single day as a new memory, than go back to CCNY ever again.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.8",
+      "header": "Mar 13th, 2026",
+      "comment": "I learned the hard way that google reviews about CCNY's engineering program weren't exaggerating. There often aren't enough seats in required classes, & some professors are unreasonable/focus heavily on theory instead of practical applications. Save yourself from getting screwed over constantly & consider going somewhere else.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Mar 13th, 2026",
+      "comment": "Rest in peace if you're an engineering student at City College of New York. Administration doesn't allocate enough funding to the engineering school, so required classes often don't have enough seats. Combined with some unreasonable or ineffective professors, it can make the experience very frustrating. You save yourself being constantly screwed",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Mar 13th, 2026",
+      "comment": "The electrical engineering undergraduate program here is very dysfunctional with confusing electives ee342/ee371. Save your money by paying for a different major for the sake of graduating on time & you're not in school forever. Save yourself from screwed by grove. if you're serious about engineering, go to a better school then here.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Mar 8th, 2026",
+      "comment": "Engineering should have shorter summer classes then 8 weeks.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Feb 7th, 2026",
+      "comment": "After the third year, I transferred out to another school after a negative experience with engineering program at Grove. I can only describe what I experience in grove school, my advice is save your money pay for a different major for the sake of graduating on time. CCNY will give you stress, nightmares and PTSD",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.4",
+      "header": "Feb 6th, 2026",
+      "comment": "overcrowded classes, misleading class description, & bad science department. Epermits take long time to process, which are required if you're an engineering major, considering you can't register for your preferred time schedule because classes are full. Job prospects for 90% of majors are poor after graduation.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.7",
+      "header": "Jan 27th, 2026",
+      "comment": "Was a Biology major, and it was the worst decision of my life. Had to figure out everything on your own with no help. Classes were so hard to pass. Professors were forced to teach. That's how they got research funding. Test avgs were in the 30-40s. Had to curve a lot for kids to pass. Academics screwed me over, and I had to stay an extra year.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.9",
+      "header": "Jan 25th, 2026",
+      "comment": "Academics are great, others are meh",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Jan 22nd, 2026",
+      "comment": "This institution and grove school system will give you Selective mutism",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Jan 12th, 2026",
+      "comment": "I recommend double-checking all advising information yourself. If something goes wrong, advising blame problems on student. so be very careful and double-check everything yourself.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.1",
+      "header": "Dec 27th, 2025",
+      "comment": "Honestly, he's not a bad professor, but it can be hard to understand him sometimes. He doesn't repeat himself if you need extra help he will tell you to check online. Overall though, he's really nice and actually very funny, which makes class more enjoyable.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.4",
+      "header": "Dec 17th, 2025",
+      "comment": "This is where academic dreams die. Everyone that works here from professors to admin offices wants to see everyone fail. They enjoy making everything hard on students because they can. Nobody smiles or cares to make an impact or be kind. Everyday I regret choosing this CUNY school over maritime or buffalo state College. Biggest mistake of my life.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.5",
+      "header": "Dec 17th, 2025",
+      "comment": "Its great school but the lack of staff and good teachers makes life so more challenging for no reason. with the right professors, you learn hard topics easily mean while with a weird one, you just go with the flow and fail even after trying so hard.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Dec 14th, 2025",
+      "comment": "If you're considering engineering or computer science, weigh your options carefully. It may be worth making financial or logistical sacrifices to attend a stronger SUNY program. The CUNY system, especially for STEM, is in serious disarray.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Dec 14th, 2025",
+      "comment": "My time at CCNY was one of the worst periods of my life. For STEM students in particular, I strongly urge you not to buy the hype. environment is extremely cutthroat, and there is little sense of community—most students are simply trying to survive.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Dec 14th, 2025",
+      "comment": "If you're considering engineering or computer science, weigh your options carefully. It may be worth making financial or logistical sacrifices to attend a stronger SUNY program. The CUNY system, especially for STEM, is in serious disarray.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Dec 8th, 2025",
+      "comment": "City college used to be a top engineering school but it's not anymore. If you want to study engineering in New York, I recommend suny Buffalo or maritime",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Dec 5th, 2025",
+      "comment": "Not in a good area of NYC. Grove is an evil institution, you might benefit from making a sacrifice to go to a better school in the SUNY system for engineering. The CUNY system is disorganized",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.6",
+      "header": "Nov 30th, 2025",
+      "comment": "You are almost guaranteed to be given a midterm within a handful of days of the final exam season. So, you may have 4, 5 exams in the span of a couple weeks. This is frankly ridiculous and poor planning from the professors involved. Academics should be rigorous because of the material, not because professors barely recognize you as a human being.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Nov 30th, 2025",
+      "comment": "Students can't simply register for classes on their own; you often have to request permission every semester. Because of this, many required classes filled up immediately, making it hard to stay on track. This leadsto students taking much longer than 4years to finish. grove school was extremely disappointing. disorganized, stressful, not supportive",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Nov 30th, 2025",
+      "comment": "Many professors seemed disconnected from students' learning needs. Several exams felt unrelated to the textbook or material taught, which made it very difficult to prepare. It often felt like instructors created their own exams without clear departmental guidelines, and the focus was heavily on theory & proofs rather than practical problem-solving.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Nov 30th, 2025",
+      "comment": "based on my experience, I wouldn't recommend the engineering program at CCNY. I felt I would have saved time, money, and stress by choosing a different major or school. I hope the program improves in the future, but I can only speak to what I went through.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    }
+  ]
+}

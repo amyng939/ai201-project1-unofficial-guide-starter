@@ -1,0 +1,820 @@
+{
+  "overall": "3.8",
+  "categories": [
+    {
+      "name": "Reputation",
+      "grade": "4.7"
+    },
+    {
+      "name": "Location",
+      "grade": "4.4"
+    },
+    {
+      "name": "Opportunities",
+      "grade": "4.3"
+    },
+    {
+      "name": "Internet",
+      "grade": "3.9"
+    },
+    {
+      "name": "Facilities",
+      "grade": "3.9"
+    },
+    {
+      "name": "Happiness",
+      "grade": "3.7"
+    },
+    {
+      "name": "Clubs",
+      "grade": "3.6"
+    },
+    {
+      "name": "Safety",
+      "grade": "3.5"
+    },
+    {
+      "name": "Social",
+      "grade": "3.4"
+    },
+    {
+      "name": "Food",
+      "grade": "3.4"
+    },
+    {
+      "name": "Reputation",
+      "grade": "4.7"
+    },
+    {
+      "name": "Food",
+      "grade": "3.4"
+    }
+  ],
+  "reviews": [
+    {
+      "overall": "Overall4.6",
+      "header": "Apr 22nd, 2026",
+      "comment": "nice",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.4",
+      "header": "Apr 19th, 2026",
+      "comment": "What an incredible experience. My profs were all great and I really appreciate the one who taught me all about Mr Sidney Poitier (you know who you are!)! When I get on the big screen I'm thanking you, Columbia!!!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.3",
+      "header": "Jan 19th, 2026",
+      "comment": "reputation, quality of internet, and safety have taken a major nosedive recently ...",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.2",
+      "header": "Jun 18th, 2025",
+      "comment": "Online students beware. You'll pay the same tution but won't have the same access to courses, leadership opportunities, mentorship, or social engagement.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.7",
+      "header": "Jun 7th, 2025",
+      "comment": "best school in nyc",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.3",
+      "header": "Jun 1st, 2025",
+      "comment": "One of the best universities in the country, right in Manhattan. Doesn't get much better.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.8",
+      "header": "Jan 14th, 2025",
+      "comment": "University is wonderful and will provide all that you give into it. Relatively stressful, but you will survive with simple time management. All in all, great university.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Jan 13th, 2025",
+      "comment": "It's Columbia University, excellent caliber.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Nov 18th, 2024",
+      "comment": "love it here",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Oct 16th, 2024",
+      "comment": "great",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Sep 25th, 2024",
+      "comment": "This academic institution is immaculate and overall a very inspirational and eye opening experience.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.5",
+      "header": "May 9th, 2024",
+      "comment": "Great university with in theory good alumni connections. However, this is being eroded rapidly.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "May 5th, 2024",
+      "comment": "good",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.9",
+      "header": "May 2nd, 2024",
+      "comment": "definitely have to take the good with the bad with ivies.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.1",
+      "header": "Apr 16th, 2024",
+      "comment": "This is the worst academic experience I have ever had. Community college and a 2 year state school would've been a much better experience. The professors are mean, and horrid at teaching, and the stress pollutes the are that you breathe. We have 1-2 suicides every semester, usually off of the roof of the dorms and straight into the grounds.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.3",
+      "header": "Apr 15th, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.6",
+      "header": "Feb 10th, 2024",
+      "comment": "The school is ambitious in its offerings - thus has a boatload of opportunities. Mostly STEM-oriented school, though, so writing support is limited to ENG majors. Research is abundant; clubs are diverse and easy to join. Classes - fun. Food is decadent and the community is welcoming and quiet. Admissions focus is on community leaders and it shows.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.3",
+      "header": "Nov 1st, 2023",
+      "comment": "GOOD!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.9",
+      "header": "Oct 29th, 2023",
+      "comment": "I enjoyed this school a lot! Even though it may be tough to get into, I do recommend trying out for it because it ends up giving you a lot of opportunities.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.8",
+      "header": "Sep 8th, 2023",
+      "comment": "Going here is like buying Gucci. People know what it is, people know it's expensive, and certain people will let you into their circle because you're wearing it. That said, these flip flops are making my feet bleed, this sweater is made out of plastic and it's digging into my collarbone, and this hat is disintegrating. Don't come here to be happy.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.9",
+      "header": "Mar 22nd, 2023",
+      "comment": "The stress culture is next level.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.8",
+      "header": "Dec 29th, 2022",
+      "comment": "The worst thing about Columbia is the same thing about every competitive school. Many of your classmates lack basic social skills and have little understanding of the world. You just need to step back and relax your ego. Open yourself up to others as much as possible.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.8",
+      "header": "Dec 3rd, 2022",
+      "comment": "A very bureaucratic organization with only obedience",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.2",
+      "header": "Nov 12th, 2022",
+      "comment": "An overrated school filled with master students.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.0",
+      "header": "Oct 31st, 2022",
+      "comment": "In STEM Professors don't know how to teach. They either read slides or do performative math in lectures. The physics department is run like an amateur clown show; they did not tell students at they needed to be registered for the recitation section directly linked with the lecture section until half way through the semester.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.7",
+      "header": "Dec 7th, 2021",
+      "comment": "All the students are very dedicated here which makes it incredibly hard to stay above the mean, most classes are curved to a B+. Facilities, including the libraries and gym, are always over crowded. Also not safe in the area, a student was murdered last week less than two blocks from campus and I am constantly receiving notification of robberies.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.8",
+      "header": "Nov 30th, 2021",
+      "comment": "I loved coming to Columbia for my Master's degree. Great reputation and jobs are more readily available to me because of this. I loved all of my professors and classmates!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.1",
+      "header": "Nov 5th, 2021",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.5",
+      "header": "Oct 16th, 2021",
+      "comment": "I just joined their MBA program. Very friendly and organized, especially for someone like me flying in and out every other week for classes.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.5",
+      "header": "Jun 19th, 2021",
+      "comment": ":))) Best choice I've ever made.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.7",
+      "header": "Jan 6th, 2021",
+      "comment": "Great University",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.1",
+      "header": "Nov 30th, 2020",
+      "comment": "Columbia is a prestigious, well-placed school. It's definitely expensive, so that's something to think about. Expect a lot of work, but you'll eventually get used to it and the opportunities are amazing if you're comfortable with reaching out. Some of my favorite researchers and scientists in high school are now my professors.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.0",
+      "header": "May 16th, 2020",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.2",
+      "header": "Mar 31st, 2020",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Feb 9th, 2020",
+      "comment": "Love it",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.8",
+      "header": "Dec 20th, 2018",
+      "comment": "Hate attending this school and so do a decent amount of students here but none have the guts to transfer because of the name it carries. I should have went to a CUNY school :(",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.5",
+      "header": "Aug 22nd, 2018",
+      "comment": "Don't expect real teachers, its a research institution",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.9",
+      "header": "Mar 5th, 2018",
+      "comment": "I love my school",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.3",
+      "header": "Dec 24th, 2017",
+      "comment": "don't regret it",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.3",
+      "header": "Dec 12th, 2017",
+      "comment": "Great school",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.8",
+      "header": "Dec 5th, 2017",
+      "comment": "Great!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.7",
+      "header": "Nov 10th, 2017",
+      "comment": "Amazing!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.0",
+      "header": "Nov 5th, 2017",
+      "comment": "Some pros and cons, work is stressful but also definitely a work hard party hard culture around a lot of the campus.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.7",
+      "header": "Oct 24th, 2017",
+      "comment": "A really great university with a very nice location in the middle of concrete jungle. There are a lot of options to meet, mingle and talk. Dept. of Chemistry is straightforward and nice place to be. However everybody is expected to work hard, and it is really a place to go. Tuition is extremely high as well as living costs are among highest...",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.7",
+      "header": "Apr 12th, 2017",
+      "comment": "Advising could be improved and there is too much interdepartmental drama between administration and non-tenured staff and graduate TAs. Students suffer because of lack of continuity among staff and coursework. Excellent opportunities post graduation. On campus recruitment, A+++ professors, off campus eats and good social life.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    }
+  ]
+}

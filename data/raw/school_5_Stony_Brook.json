@@ -1,0 +1,803 @@
+{
+  "overall": "3.3",
+  "categories": [
+    {
+      "name": "Safety",
+      "grade": "4.3"
+    },
+    {
+      "name": "Reputation",
+      "grade": "3.8"
+    },
+    {
+      "name": "Opportunities",
+      "grade": "3.5"
+    },
+    {
+      "name": "Clubs",
+      "grade": "3.3"
+    },
+    {
+      "name": "Facilities",
+      "grade": "3.3"
+    },
+    {
+      "name": "Internet",
+      "grade": "3.3"
+    },
+    {
+      "name": "Location",
+      "grade": "3.3"
+    },
+    {
+      "name": "Happiness",
+      "grade": "3.1"
+    },
+    {
+      "name": "Social",
+      "grade": "2.8"
+    },
+    {
+      "name": "Food",
+      "grade": "2.6"
+    },
+    {
+      "name": "Safety",
+      "grade": "4.3"
+    },
+    {
+      "name": "Food",
+      "grade": "2.6"
+    }
+  ],
+  "reviews": [
+    {
+      "overall": "Overall3.2",
+      "header": "May 20th, 2026",
+      "comment": "Great for academics, not much positive social aspects.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.8",
+      "header": "Apr 19th, 2026",
+      "comment": "Do not go to Stony Brook.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.3",
+      "header": "Apr 16th, 2026",
+      "comment": "i",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.8",
+      "header": "Apr 7th, 2026",
+      "comment": "I've had a positive experience at Stony Brook overall. Some of the dorms aren't the best, mainly on the east side of campus but they don't suck. The dining hall food is average but there are places with much better food. It can be difficult to make friends at first due to the academic pressures but joining clubs helps immensely. Great school.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.9",
+      "header": "Apr 3rd, 2026",
+      "comment": "no",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.0",
+      "header": "Mar 26th, 2026",
+      "comment": "As a commuter, the school is a great place. A lot of opportunities to grow and really become someone. The only thing here is that people are just weird; they are antisocial, so the school is very depressing.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.6",
+      "header": "Mar 6th, 2026",
+      "comment": "It has been weeks and the only kosher restaurant on campus is closed. How can an institution which prides itself in “diversity and inclusion” of its student body disregard having [edible] kosher food for frum students? Feedback was ignored; and promised improvements never happened. They just told us to eat frozen meals. Overall, very frustrating.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.3",
+      "header": "Jan 28th, 2026",
+      "comment": "Very lonely place, depressing, especially in the winter. Extremely difficult to make friends. If you attend, expect rude and antisocial peers. Food is disgusting.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.9",
+      "header": "Dec 17th, 2025",
+      "comment": "Great school for what you pay for. However the internet sucks (especially for downloading) and the food is palatable at best. However the social scene in this school is probably the worst part about this school imo, there are lots of rude and antisocial people here. Unless you are very extroverted it is pretty hard to make friends.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.4",
+      "header": "Dec 12th, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.0",
+      "header": "Dec 8th, 2025",
+      "comment": "Good place!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.5",
+      "header": "Dec 3rd, 2025",
+      "comment": "So, it's a great school. Highly reputable and gorgeous but making friends really takes time. You really have to get involved on campus and compromise time to hang out with people and have good friendships, but otherwise, it's a SUNY so it's worth your money.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.1",
+      "header": "Sep 24th, 2025",
+      "comment": "Overall academics are great! I believe if you take advantage of the opportunities here you will succeed. Many people that go here though are very Anti-social and its hard to make friends. Another Downside is that most of the professors have very thick accents and its hard to understand them most of the time.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.4",
+      "header": "Sep 16th, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.2",
+      "header": "Apr 20th, 2025",
+      "comment": "I liked it.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.5",
+      "header": "Apr 16th, 2025",
+      "comment": "Definetely could use some recreation activities that are talked about.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.6",
+      "header": "Apr 10th, 2025",
+      "comment": "The school really does good with opportunities, the reputation is high especially for STEM, there is plenty of food options here and around, the library is good but some building are not that good tbh. That said the campus life sucks, the clubs are pretty boring, the happiness is pretty low, and some parts of the campus need to be fixed up.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.6",
+      "header": "Jan 30th, 2025",
+      "comment": "mid but lots of opportunity, very able to forge your path (if you lucky and have transfer credits). Intro classes fill up very quickly",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.9",
+      "header": "Jan 27th, 2025",
+      "comment": "Rly safe school, well lit, most people r entirely study focused so you dont have to worry about rowdy students. If ure interested in parties, most of them are hosted via frat/soro. Rly hard to get an on campus job, prtty easy to get 1 off campus (you need a car to do anything off campus). Student tutoring/disability services are amazing.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.0",
+      "header": "Dec 7th, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.9",
+      "header": "Dec 5th, 2024",
+      "comment": "They have a lot of opportunities for you",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.3",
+      "header": "Dec 1st, 2024",
+      "comment": "Yeah it's pretty cool",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.8",
+      "header": "Nov 22nd, 2024",
+      "comment": "You really need to work to find your niche here, but once you do, you're set. There are a ton of opportunities here and every staff member is friendly and willing to help you out. Many people are kind of antisocial, but by complaining about them to others, you'll find friends. Plus, if you're socially adept, you'll stand out to professors.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.0",
+      "header": "Oct 25th, 2024",
+      "comment": "Good school at a really great value. Plenty of opportunities in the science fields, easy to find research. Besides the subpar food, the main problem with the school is that there are too many students for the available facilities, with crowded dining halls and libraries. Also people can be a little anti-social. But I still love it here!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.4",
+      "header": "Sep 8th, 2024",
+      "comment": "The internet here is incredible, I always have 80+mbps and it often hits 150. If you travel more than 5 minutes from your dorm you can find some really cool places to study. The professors are invested in your success. Some professors teach exclusively online though, so be prepared to take some online classes if its a very common class (CHE 131).",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.8",
+      "header": "Jul 11th, 2024",
+      "comment": "Will forever live this school!!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.4",
+      "header": "Jun 29th, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.7",
+      "header": "Jun 18th, 2024",
+      "comment": "Very lonely and hard. Probably the most depressing years of my life. The only good thing I got out of this was when I left a lot of jobs wanted me since I got my degree from stony brook",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.6",
+      "header": "May 13th, 2024",
+      "comment": "Don't expect to have much fun on this campus. Make sure your sociail with others cause thats your only way of enjoying your campus life. Take your classes seriously and find different resources that will help you with your courses. College and high are not the same thing you are really on your own here. You don't get ur grades till last minute.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.3",
+      "header": "Apr 19th, 2024",
+      "comment": "You get promised priority enrollment for submitting everything in advance, jumping through hoops, only to wait four months for a determination. Program WAY too tiny to accept anyone. Doesn't matter if",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.6",
+      "header": "Apr 7th, 2024",
+      "comment": "Stony brook is for learning and that is it. it social groups have a very clear dived. the place it very quiet, even during the day. night life doesn't exist. some professors are very hard graders. No easy breaks. if you commute have fun taking the bus from the parking lot. nature is good, not great. this really does feel like a lonely place.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.6",
+      "header": "Apr 3rd, 2024",
+      "comment": "amazingg",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.2",
+      "header": "Feb 20th, 2024",
+      "comment": "The food is actually pretty good and the first year dorms are immaculate. After finishing my first semester I would say that SBU really cares about the academics of their students. Even though people say campus is dead on weekends, and it is true, their are so many events thrown by the school its the students who don't attend that make it dead.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.3",
+      "header": "Jan 30th, 2024",
+      "comment": "If you get with the right crowd, put yourself out there, join a few clubs/activities, you'll have fun. If you don't stay up to date with all the activities and events the school is running, you won't have fun and will probably want to transfer, but if you put yourself out there, meet new people/ try new things, you'll have fun and be okay!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Jan 24th, 2024",
+      "comment": "good",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Dec 22nd, 2023",
+      "comment": "This is the best college I have ever gone to.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.8",
+      "header": "Dec 18th, 2023",
+      "comment": "Stony Brook is one of the best schools I have attended, the instructors and staff are amazing. Food choices should be better, specifically for vegetarians.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.4",
+      "header": "Dec 6th, 2023",
+      "comment": "Graduate Alumni speaking - SBU is a great school! The undergraduate population might complain - but they haven't seen other schools to compare. SBU will give you a great education at a very reasonable price compared to schools outside SUNY. Huge plus to have a school be attached to a great hospital as well!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.6",
+      "header": "Nov 28th, 2023",
+      "comment": "I came here from a different country, only knowing that the school was highly ranked. So far, I've had very good opportunities presented to me and the food is okay. The downside is that its basically in the middle of no where, which makes it challenging to get essentials because majority of stores are not within a walkable distance.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.8",
+      "header": "Nov 16th, 2023",
+      "comment": "It's in the middle of nowhere. A lot of professors don't care about teaching",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.3",
+      "header": "Nov 14th, 2023",
+      "comment": "Good school",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.4",
+      "header": "Nov 9th, 2023",
+      "comment": "Phenomenal Education! BioChem UG curriculum comparable to medical school. SB gave me a huge head start in comparison to my colleagues in medical school. Ivy league education for 20k/yr. Can't beat it! You'll be miserable but its all worth it in the end! Perfect place to lock up and study for 4 years straight. Great research opportunities!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.6",
+      "header": "Nov 8th, 2023",
+      "comment": "Good",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.5",
+      "header": "Nov 3rd, 2023",
+      "comment": "At Stony Brook, I found a welcoming and inclusive community where I feel like I truly belong. The campus is vibrant, with plenty of activities available, and the faculty is exceptional. They are both knowledgeable and approachable, always willing to help students succeed.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    }
+  ]
+}

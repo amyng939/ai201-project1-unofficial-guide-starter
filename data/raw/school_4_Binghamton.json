@@ -1,0 +1,820 @@
+{
+  "overall": "3.8",
+  "categories": [
+    {
+      "name": "Reputation",
+      "grade": "4.1"
+    },
+    {
+      "name": "Clubs",
+      "grade": "3.9"
+    },
+    {
+      "name": "Happiness",
+      "grade": "3.9"
+    },
+    {
+      "name": "Social",
+      "grade": "3.8"
+    },
+    {
+      "name": "Opportunities",
+      "grade": "3.8"
+    },
+    {
+      "name": "Safety",
+      "grade": "3.8"
+    },
+    {
+      "name": "Facilities",
+      "grade": "3.8"
+    },
+    {
+      "name": "Internet",
+      "grade": "3.7"
+    },
+    {
+      "name": "Location",
+      "grade": "3.1"
+    },
+    {
+      "name": "Food",
+      "grade": "3.0"
+    },
+    {
+      "name": "Reputation",
+      "grade": "4.1"
+    },
+    {
+      "name": "Food",
+      "grade": "3.0"
+    }
+  ],
+  "reviews": [
+    {
+      "overall": "Overall4.3",
+      "header": "May 26th, 2026",
+      "comment": "You need to experience Binghamton to understand how good of a school it is. There are so many opportunities at the school, you just have to put in the time to figure it out. Food on campus is not good.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.4",
+      "header": "May 9th, 2026",
+      "comment": "If you want to take undergraduate courses, but already have a bachelors degree, then you will be forced to enroll as a graduate student and have to pay graduate level tuition which is 50% more than undergraduate tuition. Admissions won't tell you this, it's not expressly written anywhere, and you won't find out until you get slapped with the bill.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.3",
+      "header": "May 6th, 2026",
+      "comment": "I think this school offers many opportunities and resources, but its location is its main downfall. I feel that there isn't much to do off campus, and it's upstate, so it's pretty underdeveloped and many crack heads.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.1",
+      "header": "Apr 9th, 2026",
+      "comment": "Great school, lots of fun to be had if you actively look for it; the worst parts by far are the location and food.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.0",
+      "header": "Mar 4th, 2026",
+      "comment": "This is the most affordable \"public ivy\" education that I have been able to find. I will say a lot of these bad reviews are because Bing was a lot of ivy-league hopefuls' safety school, so its naturally not going to live up to those expectations. We just replaced our President, and things are on the up-swing including the food (THANK GOD).",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.0",
+      "header": "Jan 19th, 2026",
+      "comment": "I'm only a sophomore here, but the school is only going to grow with time- hop on the train before overlooking it when applying to schools.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Dec 26th, 2025",
+      "comment": "Great school, amazing amenities, and great support. Graduated from SOM. Definitely make use of resources there.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.7",
+      "header": "Dec 18th, 2025",
+      "comment": "There's no support for business majors, only accounting students. If you're not in accounting, it's hard navigating everything. The professors also encourage Accounting here, which is unfortunate",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.5",
+      "header": "Dec 18th, 2025",
+      "comment": "Good school with decent opportunities, but the location is not ideal - it's far from major cities. Crime rate around the area is higher than I'd like, and I do not recommend going downtown alone at night for safety reasons. This is something to consider when choosing this school.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.7",
+      "header": "Dec 17th, 2025",
+      "comment": "love it here. bad food. great people. good clubs and social life.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.9",
+      "header": "Dec 13th, 2025",
+      "comment": "The food, for now, really does suck. But otherwise I really do love it here, campus is gorgeous and everything is relatively new. The construction does stink, but otherwise no complaints",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.7",
+      "header": "Dec 11th, 2025",
+      "comment": "i love binghamton but the food is just so bad. so many good research opportunities and i have a ton of close friends :)",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.2",
+      "header": "Dec 11th, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.8",
+      "header": "Dec 11th, 2025",
+      "comment": "still enrolled, love the place and people. feels like education is still valued",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.9",
+      "header": "Dec 10th, 2025",
+      "comment": "WOW the food is bad. I don't know why it's so high when it failed 7/8 food quality checks for the past 5 years and it's hard to find chicken that is not raw in C4. Otherwise, I think it is a great university in terms of opportunities, safety, and working areas. Libraries are open and helpful, good amount of nice people and staff, 8/10 accessibility",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.4",
+      "header": "Dec 8th, 2025",
+      "comment": "If you are coming from a more urban environment, there will definitely be some adjusting.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.4",
+      "header": "Dec 8th, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.1",
+      "header": "Dec 8th, 2025",
+      "comment": "love it here but the food lowk sucks",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.0",
+      "header": "Dec 4th, 2025",
+      "comment": "Binghamton grew on me. Academics, programs, and social life are all great. My dorm situation has been great, but some folks have had less of a good experience. My main complaints are that admins aren't really responsive, and the food options and preparation are sub-par at best. Overall, great for the price, especially if you plan on a grad degree.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.4",
+      "header": "Nov 13th, 2025",
+      "comment": "I would say the class can challenging, either being the subject or the professors. But you will find plenty of social and academic opportunities here. Additionally, I think there are alot of interesting things here.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.4",
+      "header": "Nov 12th, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.1",
+      "header": "Nov 11th, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.5",
+      "header": "Sep 27th, 2025",
+      "comment": "Good school, foods mid but definitely manageable. Not too bad socially, but definitely wish the school had more school spirit, I think the fact there's no football team really takes away from that",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.8",
+      "header": "Sep 18th, 2025",
+      "comment": "Lots of clubs to choose from and there's a decently big party scene off campus. Definitely not the safest campus or town. Do not walk around at night by yourself. Food is mid but edible. Hard to keep up if you fall behind for a few days. You will be burnt out and tired even in the first month of your semester.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.3",
+      "header": "Sep 6th, 2025",
+      "comment": "I would say that it offer plenty of opportunities for academic and carrer growth, but be careful with social life because some people are not meant to be friends. Said the same thing about any of the clubs and especially any student union or organization they can be picky",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Aug 28th, 2025",
+      "comment": "This is one of the best places to go to if you want a social life. There are so many community events, clubs with numerous activities, you will never run out of things to do.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Aug 11th, 2025",
+      "comment": "GREAT public school - worth the money considering the in-state tuition",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.2",
+      "header": "Jul 23rd, 2025",
+      "comment": "I'm a recent grad from Binghamton and I loved my time there! I did a complete 180, I went from absolutely hating it, to eventually finding a really solid community of people! The people really do make the place & I wouldn't trade my experience for the world. I loved my psych & edu profs, and greek life really gave me a community I needed.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.5",
+      "header": "Jun 26th, 2025",
+      "comment": "This university has lots of opportunities for students to explore and find their place but I would have to be honest that it has it's downside",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.5",
+      "header": "Jun 19th, 2025",
+      "comment": "It's a nice school outside of the big cities. Everyone is super friendly and it's a safe campus to be on. I also has a nice nature preserve behind the campus, easy to get to shopping locations.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.7",
+      "header": "May 26th, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.4",
+      "header": "May 21st, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.9",
+      "header": "May 14th, 2025",
+      "comment": "Can't beat the price. You might get some questionable professors from time to time but overall the education and the school are great. Food is what you'd expect from college food, and the meal plan system sucks, which they will hopefully work out at some point. Location isn't the best but there's still a lot to do on and off campus.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.2",
+      "header": "Apr 14th, 2025",
+      "comment": "Overall a school I would recommend based on my experience so far. Great academics and opportunities.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Apr 11th, 2025",
+      "comment": "Affordable, great education, and plenty of friends to make. Def recommend coming here.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.7",
+      "header": "Jan 17th, 2025",
+      "comment": "I am a freshman in harpur currently and an athlete here. I think that the school is the best you can find for this price and I think they do a great job trying to make it upper level private school quality despite having much less funding. I wish the sports teams were more popular among students. For example seeing a game once in awhile.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Jan 15th, 2025",
+      "comment": "Perfect school",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall4.2",
+      "header": "Jan 8th, 2025",
+      "comment": "Thoroughly enjoyed my time at Bing, it is what you make of it",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Dec 17th, 2024",
+      "comment": "love it here",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.7",
+      "header": "Dec 17th, 2024",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.8",
+      "header": "Dec 11th, 2024",
+      "comment": "Pretty good name brand value for the price of tuition although the dining halls, clubs, and career readiness prep needs work.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.7",
+      "header": "Nov 20th, 2024",
+      "comment": "Binghamton is a great school if you can look past the depressing architecture",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.8",
+      "header": "Nov 15th, 2024",
+      "comment": "good school",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.8",
+      "header": "Nov 10th, 2024",
+      "comment": "The food is the main problem.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.7",
+      "header": "Oct 15th, 2024",
+      "comment": "the binghamton experience is what you make of go. go out, make friends, try new things.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    }
+  ]
+}

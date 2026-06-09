@@ -1,0 +1,820 @@
+{
+  "overall": "3.0",
+  "categories": [
+    {
+      "name": "Safety",
+      "grade": "3.8"
+    },
+    {
+      "name": "Location",
+      "grade": "3.7"
+    },
+    {
+      "name": "Reputation",
+      "grade": "3.5"
+    },
+    {
+      "name": "Internet",
+      "grade": "3.0"
+    },
+    {
+      "name": "Opportunities",
+      "grade": "3.0"
+    },
+    {
+      "name": "Happiness",
+      "grade": "3.0"
+    },
+    {
+      "name": "Clubs",
+      "grade": "2.8"
+    },
+    {
+      "name": "Facilities",
+      "grade": "2.7"
+    },
+    {
+      "name": "Social",
+      "grade": "2.4"
+    },
+    {
+      "name": "Food",
+      "grade": "2.4"
+    },
+    {
+      "name": "Safety",
+      "grade": "3.8"
+    },
+    {
+      "name": "Food",
+      "grade": "2.4"
+    }
+  ],
+  "reviews": [
+    {
+      "overall": "Overall2.3",
+      "header": "Jun 2nd, 2026",
+      "comment": "Security guards are great however the profs for the comp sci program are ATROCIOUS, multiple fail the final fail the course classes makes you wonder why even come to class, crowded in the library and the walkways around 12pm. No areas to study and loud in the library 4th and 5th floor despite being quiet floors. not enough academic opportunities.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.4",
+      "header": "Jun 2nd, 2026",
+      "comment": "The school is okay i guess, the computer science program is ATROCIOUS, multiple fail the final fail the course classes that make you question why even come to class then if your grade is determined on two exams. Overcrowded in the library, a bunch of larpers, not enough spaces to do work for a school that has like 18+ floors in multiple buildings.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.3",
+      "header": "May 14th, 2026",
+      "comment": "Ceilings are falling on students while admin stays silent. Racism is tolerated. Allison Friedman remains suspended instead of fired despite clear evidence. The School of Education is a joke. They missed the decision deadline and the office is a ghost town. No updates, no professionalism. They only care about your money, not your safety or future.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.6",
+      "header": "Apr 28th, 2026",
+      "comment": "I liked my professors here (for the most part), but the communication aspect has A LOT of room for improvement. Emails from departments (financial aid, academic advising, etc) were often unclear and even from some of my professors! Social life is ok and it is possible to connect, but overall this experience was aggravating and frustrating!",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.1",
+      "header": "Mar 16th, 2026",
+      "comment": "A school, at the bare minimum, is supposed to be a place you can go and study. Hunter can't even get this right. The facilities are an overcrowded disaster. Hope you like asbestos! People are catching on that it's possible to coast to a degree with ChatGPT and learn nothing. Diplomas from here with be worthless in five years.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.2",
+      "header": "Feb 25th, 2026",
+      "comment": "l",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Feb 24th, 2026",
+      "comment": "This campus is great if you want to be in and out for your classes only. It's a HORRIFIC place to stay any longer than you have to. The student body is either made of fashionistas who care too much and judge you, or the most boring people who don't speak. Not a great place to make friends or connections.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.0",
+      "header": "Feb 20th, 2026",
+      "comment": "n",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall5.0",
+      "header": "Feb 18th, 2026",
+      "comment": "great school with so m ay majors",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.1",
+      "header": "Jan 5th, 2026",
+      "comment": "The school is located in the Upper East Side, where delis and restaurants often raise their prices even if the quality is low. Elevators in the North Building can take up to 10 minutes to arrive, requiring you to leave for class earlier. Around noon, it gets hectic, especially at the intersection between buildings on the 3rd floor.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.8",
+      "header": "Dec 18th, 2025",
+      "comment": "I had the lowest expectations and maybe that is why I was very shocked once I started. I've made some really good friends, the department of my major has helped me a lot to grow in my field and looking for jobs. Not all departments are great, but overall most faculty will try to help you not fail. Honestly I like it.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.4",
+      "header": "Dec 14th, 2025",
+      "comment": "Hunter is what you make it. If you don't like people, if you don't go to events, if you don't talk in GCs, if you don't join any clubs...you will hate your time here. Everyone has the chance to find their people, but you may have to leave your comfort zone to do it. Food is meh and $$$. Make friends with security! Take advantage of the resources.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.7",
+      "header": "Dec 1st, 2025",
+      "comment": "This is my undergrad year, I was very hyped to go to hunter college, the transition is very major i'll say, I noticed off the back with most of the fall semesters some professors dont gaf about how stressful it is to keep up, the biggest thing you'll hear is \"go to office hours\" . If you started here I wish you luck , i'm literally graying early !",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Nov 20th, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.2",
+      "header": "Oct 18th, 2025",
+      "comment": "Do not come here unless you have no other options. The worst CUNY by far",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.6",
+      "header": "Oct 2nd, 2025",
+      "comment": "I mean it's a cuny what could possibly go wrong.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.5",
+      "header": "Sep 16th, 2025",
+      "comment": "Hunter College is a good school just for the name, meaning reputation for a higher paying job. As far as attending, most of the Professor they hire are under qualified because they lack diversity, communication, patience, and understanding with their students. They're hired based on education, but not their character. Not an excellent school.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.8",
+      "header": "Sep 15th, 2025",
+      "comment": "I started this semester and right now it been a really good experience.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.4",
+      "header": "May 24th, 2025",
+      "comment": "One of the better Cuny colleges out there",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.3",
+      "header": "Apr 17th, 2025",
+      "comment": "Honestly this school isn't great academically. Im not in the nursing program yet and it already caused me several panic attacks, stress and caused me to cry out of stress. the advisors get paid for nothing lol",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.0",
+      "header": "Feb 20th, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.9",
+      "header": "Feb 7th, 2025",
+      "comment": "I'm in my senior year. If you come here looking for a good academic programs, I'm sorry to tell you, Hunter is not good academically.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.5",
+      "header": "Feb 1st, 2025",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.6",
+      "header": "Jan 26th, 2025",
+      "comment": "Yea overrated. Improvements really needed, problems: crowded, low seating/spaces/class registrations. Many professors can teach poorly; learn to self teach, make friends (you can, be proactive, pls have faith in yourself and others) In short: it's just not it, but you just got to endure it and comfort yourself by the cost;",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.0",
+      "header": "Oct 24th, 2024",
+      "comment": "Science courses are hard, but not impossible. Very low social life, but good internet (still don't take exams/quizzes at campus if you can avoid it).",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.5",
+      "header": "Sep 19th, 2024",
+      "comment": "I attended Hunter for 2 years, and transferred out before Covid hit. If I hadn't, I'm not sure if I would have graduated with high marks due to the fact that it seems as if most professors here would rather you stroke their ego in the work instead of staying objective. I agree with other commenters on the commons area, shotty buildings, etc.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.8",
+      "header": "Aug 28th, 2024",
+      "comment": "Its Overall an awesome school, and great for the price your paying if any, and I would recommend it to anyone.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.4",
+      "header": "Aug 27th, 2024",
+      "comment": "This school has great opportunities for students planning to pursue careers related to their studies (I.e., internships 8 and networking). However, the facility could use some work as the environment is dull and can get depressing at times. As a science major, science classes here tend to be unnecessarily hard, but the school has great resources.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.7",
+      "header": "Jul 29th, 2024",
+      "comment": "Good school for science",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.6",
+      "header": "Jul 13th, 2024",
+      "comment": "mas o menos",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.9",
+      "header": "May 28th, 2024",
+      "comment": "I feel that, as a graduate student, my experience is much different than most have at Hunter. But honestly, having gone to a private university for undergrad, I wish I could have done it at Hunter instead. Professors are brilliant, the CUNY system is solid, and I'm not paying $100k like I did with my BA. It's a degree, just get in and get out.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.3",
+      "header": "May 27th, 2024",
+      "comment": "Im currently a junior majoring in psych, you will be on your own in nearly everything.There is little to no help when it comes to future planning. You will be alone most of the time if you dont FORCE yourself into everything, and it shouldnt be. its an okay school, but does not live up to the name its given. please be thorough when deciding.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.7",
+      "header": "May 12th, 2024",
+      "comment": "Advisors mislead you a lot. You are forced to take unnecessary classes and the worst dealing with rudness of people in the office. Nobody graduates on time, some people sit on the floor during classes because no seats, impossible to register for class. If you want a degree fast and affordable this is not the option.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.4",
+      "header": "May 4th, 2024",
+      "comment": "I will always regret it",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.2",
+      "header": "Mar 28th, 2024",
+      "comment": "I would have never came here if I knew how much it sucked. so many people build a rep for this school and then when you actually see it, it's a shame. I hate it here",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.5",
+      "header": "Jan 12th, 2024",
+      "comment": "Don't come here if you don't have a scholarship and even if you do have a scholarship, second-guess yourself before enrolling at Hunter. Everything is wack about this school. Trust the ratings.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.1",
+      "header": "Jan 9th, 2024",
+      "comment": "psych major. i acted as my own counselor & graduated early w a double minor. for psych majors, there are so many opportunities. you can get amazing internships. important to connect w professors & psych peers. for social life, i met many friends through language courses & clubs. you need to actively pursue friendships bc everyone commutes.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.6",
+      "header": "Dec 22nd, 2023",
+      "comment": "Construction is always occurring; the school needs fixing inside all over, and most professors are mid. If you are looking for the \"college experience,\" do not attend. There is no social life. The SEEK program is good, and the school's reputation is decent.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.8",
+      "header": "Dec 13th, 2023",
+      "comment": "SO much construction near and in the school, but nothing ever looks updated. Food is ehh and expensive, taste like middle school food. Only thing good about the school is the USG ( they provide lots of activities) and Public safety ( safe school, and good teamwork, they make lots of outreach events). Classrooms are super outdated, small and hot.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.1",
+      "header": "Dec 1st, 2023",
+      "comment": "This rating has been removed as per our site guidelines.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.8",
+      "header": "Oct 25th, 2023",
+      "comment": "While the location is good and the subway is legit right outside it's extremely academically rigorous to a fault. Wish I had known that, creates a super overwhelming environment, where everyone is trying to catch up on work and there isn't much socialization. Professors are hit or miss, most being the former. Ended up teaching myself everything.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.7",
+      "header": "Oct 20th, 2023",
+      "comment": "Actually, this school isn't what the public said it represents. Yes, it does have great professors but some of them aren't great either. Always an issue with the electric stairs, very crowded hallways, and they place you in such big classrooms to only grade you based on exams. Is very hard to make friends. And most of the time you will be alone.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall1.4",
+      "header": "Aug 18th, 2023",
+      "comment": "I regret it. Don't go here unless all you want is a degree. You won't have much of a social life. Most classes are academically rigorous, even when completely unnecessary. Painfully disorganized, anything involving bureaucracy will make you question your faith in humanity. Overcrowded. Building is in shambles, very few places for quiet study. Sad.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall2.6",
+      "header": "Aug 10th, 2023",
+      "comment": "This school wasn't what I expected it might be. Some professors are great while others are not really great at teaching. The main campus is still under construction and even some places look old and in need of a renovation. Their financial aid and bursar's office don't really help you, all they ask you to do is to email someone else.",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    },
+    {
+      "overall": "Overall3.2",
+      "header": "Jul 10th, 2023",
+      "comment": "It was an okay school, wasn't there for very long but it was okay",
+      "sliders": [
+        "Reputation",
+        "Location",
+        "Opportunities",
+        "Facilities",
+        "Internet",
+        "Food",
+        "Clubs",
+        "Social",
+        "Happiness",
+        "Safety"
+      ]
+    }
+  ]
+}
