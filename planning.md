@@ -77,7 +77,7 @@ Student reviews of colleges. It is valuable because there are so many different 
 | 2 |What do students say about the crowdiness of the colleges? |Things about elevators not working, lots of students, etc |
 | 3 |What feature do students rate the best from each college? |Location and safety are consistently the some of the highest ones throughout all |
 | 4 |What feature do students rate the worst from each college? |Social and food are consistently the worst throughout all |
-| 5 |Which colleges have the highest and lowest overall student ratings according to the collected reviews? |4.4 cornell 2.9 CCNY |
+| 5 |What do students say about the professors of the colleges? | |
 
 ---
 
