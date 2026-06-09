@@ -210,27 +210,10 @@ def build():
             )
 
             # ---- Build chunks ----
-            # 1) One dedicated "summary" chunk so the overall rating + category
-            #    grades are retrievable on their own (fixes the "ratings are a
-            #    different format than review text" challenge in planning.md).
-            grade_lines = [
-                f"{k.replace('_', ' ').title()}: {v}"
-                for k, v in ratings.items() if v is not None
-            ]
-            summary_text = (
-                f"{name} - overall student ratings on RateMyProfessors.\n"
-                + "\n".join(grade_lines)
-            )
-            all_chunks.append({
-                "school": name,
-                "source": url,
-                "type": "summary",
-                "rating": overall_quality,
-                "date": None,
-                "text": summary_text,
-            })
-
-            # 2) Review chunks (kept whole unless too long).
+            # Only student-review chunks are embedded. (School-level rating
+            # summaries were diluting top-k retrieval and weren't relevant to
+            # the eval questions; the overall ratings still live in
+            # structured.json for reference.)
             for r in reviews:
                 for c in chunk_review(r["text"]):
                     all_chunks.append({
