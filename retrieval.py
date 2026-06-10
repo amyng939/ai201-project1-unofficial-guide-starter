@@ -102,7 +102,7 @@ def build_index():
 def retrieve(query, k=TOP_K):
     """Return the top-k most relevant chunks for a query string.
 
-    Each result: {text, source, position, type, rating, date, distance}.
+    Each result: {text, source, url, position, type, rating, date, distance}.
     Lower distance = more similar (cosine).
     """
     collection = get_collection()
@@ -121,6 +121,7 @@ def retrieve(query, k=TOP_K):
         results.append({
             "text": doc,
             "source": meta["source"],
+            "url": meta.get("url", ""),   # source link (for attribution)
             "position": meta["position"],
             "type": meta["type"],
             "rating": meta["rating"],
@@ -151,6 +152,7 @@ def test_retrieval():
         for i, r in enumerate(retrieve(q), 1):
             print(f"\n[{i}] distance={r['distance']:.3f}  "
                   f"source={r['source']}  type={r['type']}  rating={r['rating']}")
+            print(f"    link: {r['url']}")
             print("    " + r["text"][:].replace("\n", " "))
 
 
